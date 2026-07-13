@@ -1,0 +1,16 @@
+=== TIKTOK POST METADATA ===
+Generated on: 2026-07-13 22:13:03
+Post Title: My Secret Productivity Weapon
+----------------------------------------
+
+=== TIKTOK DESCRIPTION & HASHTAGS (COPY-PASTE) ===
+lumevoice.com
+
+#productivity #workhacks #developers #contentcreator #systemwide #voicecontrol #lumevoice #appleecosystem
+----------------------------------------
+
+=== SLIDES CAPTIONS REFERENCE ===
+Slide 1: "Juggling multiple apps and typing everywhere felt so slow."
+Slide 2: "Imagine dictating directly into any text box."
+Slide 3: "Emails, Slack, VS Code—all faster, all by voice."
+Slide 4: "LumeVoice is my typing shortcut. Try it free at lumevoice.com."
