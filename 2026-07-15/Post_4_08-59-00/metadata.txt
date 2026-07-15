@@ -1,0 +1,16 @@
+=== TIKTOK POST METADATA ===
+Generated on: 2026-07-15 08:59:40
+Post Title: Privacy-First Productivity
+----------------------------------------
+
+=== TIKTOK DESCRIPTION & HASHTAGS (COPY-PASTE) ===
+lumevoice.com
+
+#dataprivacy #ondeviceai #securetech #appledev #mactips #techsecurity #nospying #digitalwellbeing
+----------------------------------------
+
+=== SLIDES CAPTIONS REFERENCE ===
+Slide 1: "Worried about my private dictations going into the cloud? Me too."
+Slide 2: "I found an AI that processes everything right on my device, 100% offline."
+Slide 3: "My data stays mine, always private, never used for training or stored remotely."
+Slide 4: "LumeVoice offers ultimate privacy. Learn more at lumevoice.com."
