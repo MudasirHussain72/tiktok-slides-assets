@@ -1,0 +1,16 @@
+=== TIKTOK POST METADATA ===
+Generated on: 2026-07-21 23:01:29
+Post Title: Dev Workflow Boost
+----------------------------------------
+
+=== TIKTOK DESCRIPTION & HASHTAGS (COPY-PASTE) ===
+lumevoice.com
+
+#developerlife #codinghacks #techproductivity #softwareengineer #vscodetips #aidictation #programmer #gamedeveloper
+----------------------------------------
+
+=== SLIDES CAPTIONS REFERENCE ===
+Slide 1: "Coding technical terms can be a nightmare to type out quickly."
+Slide 2: "Juggling complex jargon and formatting? My old dictation couldn't keep up."
+Slide 3: "Found an AI that handles Kubernetes and code naturally. Mind blown!"
+Slide 4: "Developers, LumeVoice understands your code. Get it at lumevoice.com."
