@@ -1,0 +1,16 @@
+=== TIKTOK POST METADATA ===
+Generated on: 2026-07-21 22:07:05
+Post Title: Dev Life Upgrade
+----------------------------------------
+
+=== TIKTOK DESCRIPTION & HASHTAGS (COPY-PASTE) ===
+lumevoice.com
+
+#developerlife #codinghacks #techproductivity #aiforcode #softwareengineer #macbookpro #vscode #programmerlife
+----------------------------------------
+
+=== SLIDES CAPTIONS REFERENCE ===
+Slide 1: "Typing complex technical docs and code was a constant struggle."
+Slide 2: "'Kubernetes' or 'async/await' always tripped up my fingers."
+Slide 3: "My technical terms now flow perfectly, even code blocks."
+Slide 4: "I use LumeVoice to type 5x faster. Download free at lumevoice.com."
